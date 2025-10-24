@@ -68,7 +68,7 @@ t2.from('#cock',{
 t2.to('#fanta',{
      x:'2%',
      y:'270%',
-     width:'280px',
+     width:'320px',
           
 },'org')
 t2.to('#orange2',{

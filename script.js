@@ -26,7 +26,7 @@ tl.to("#leaf",{
      rotate:'250deg'
 },"orange")
 tl.to("#cocoTree",{
-     y:'90vw',
+     y:'78vw',
      x:'-89vw',
      rotate:'180deg'
 },"orange")
@@ -67,13 +67,13 @@ t2.from('#cock',{
 },'org')
 t2.to('#fanta',{
      x:'2%',
-     y:'290%',
-     width:'340px',
+     y:'250%',
+     width:'260px',
           
 },'org')
 t2.to('#orange2',{
-     y:'101vw',
-     x:'48%',
+     y:'90vw',
+     x:'45%',
      scale:1.6,
      rotate:'120deg'
      

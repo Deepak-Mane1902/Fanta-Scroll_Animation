@@ -17,7 +17,7 @@ tl.to("#orange2",{
      x:'-110%',
 },"orange")
 tl.to("#orange1",{
-     y:'50vw',
+     y:'46vw',
      x:'80%',
 },"orange")
 tl.to("#leaf",{
